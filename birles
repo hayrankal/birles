@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/Aiming/main/Examples/UniversalSilentAim.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hayrankal/birles/refs/heads/main/esp",true))()
